@@ -4,7 +4,7 @@ from operator import truediv  ##taking input
 # print(name+" likes "+fav_clr)
   ##type conversion
 # birth_year=input("birth year")
-#      #age=2026-birth_year will be wrong
+#      #age=2026-birth_year will be wrongg
 # age=2026-int(birth_year)
 # print(age)
   ##string
