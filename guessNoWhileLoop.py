@@ -8,5 +8,5 @@ while guess_count < guess_limit:
         print("You guessed the number")
         break
 else:
-    print("you failed to guess the number")
+    print("you  failed to guess the number")
 
