@@ -1,7 +1,7 @@
 message=input(">")
 words=message.split(' ')
 emoji={
-    ":)" : "2",
+    ":)" : "4",
     ":(" : "3"
 }
 output=""
